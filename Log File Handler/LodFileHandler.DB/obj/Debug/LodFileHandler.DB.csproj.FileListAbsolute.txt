@@ -1,0 +1,12 @@
+D:\C#\Log File Handler\LodFileHandler.DB\obj\Debug\LodFileHandler.DB.csprojAssemblyReference.cache
+D:\C#\Log File Handler\LodFileHandler.DB\obj\Debug\LodFileHandler.DB.csproj.CoreCompileInputs.cache
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\LodFileHandler.DB.dll.config
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\LodFileHandler.DB.dll
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\LodFileHandler.DB.pdb
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\EntityFramework.dll
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\EntityFramework.xml
+D:\C#\Log File Handler\LodFileHandler.DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Log File Handler\LodFileHandler.DB\obj\Debug\LodFileHandler.DB.csproj.CopyComplete
+D:\C#\Log File Handler\LodFileHandler.DB\obj\Debug\LodFileHandler.DB.dll
+D:\C#\Log File Handler\LodFileHandler.DB\obj\Debug\LodFileHandler.DB.pdb
